@@ -17,7 +17,7 @@
  *   GNU General Public License for more details.                           *
  *                                                                          *
  *   To view a copy of the GNU General Public License, go to the following  *
- *   location: <https://www.gnu.org/licenses/>.                              *
+ *   location: <https://www.gnu.org/licenses/>.                             *
  ****************************************************************************/
 
 #pragma once
@@ -34,6 +34,7 @@
   #include "unicode/unicode.h"
   #include "unicode/standard_char_set.h"
   #include "unicode/western_char_set.h"
+  #include "unicode/cyrillic_char_set.h"
   #include "unicode/font_bitmaps.h"
   #include "rgb_t.h"
   #include "bitmap_info.h"
