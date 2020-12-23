@@ -98,12 +98,12 @@
     #define Y_MIN_PIN                         14
   #endif
   #ifndef Y_MAX_PIN
-    #define Y_MAX_PIN                         15
+    #define Y_MAX_PIN                         18
   #endif
 #endif
 #ifndef Z_STOP_PIN
   #ifndef Z_MIN_PIN
-    #define Z_MIN_PIN                         18
+    #define Z_MIN_PIN                         15
   #endif
   #ifndef Z_MAX_PIN
     #define Z_MAX_PIN                         19
